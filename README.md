@@ -1,4 +1,4 @@
-What's New in v2.1.100
+What's New in v2.1.101
 
 - 🎵 Personalized Music Recommendations — Discover songs tailored to your music taste and listening habits.
 - 🎨 Redesigned Update UI — Enjoy a cleaner, more modern update experience.
